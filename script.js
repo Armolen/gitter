@@ -5,3 +5,5 @@ myFunction(){
 benek(){
 	let b=7;
 }
+
+let=tes;
